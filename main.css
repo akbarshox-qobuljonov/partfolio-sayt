@@ -1,0 +1,212 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+
+.container {
+  width: 1150px;
+  padding: 0px 10px;
+  margin: 0px;
+}
+.ota {
+  display: flex;
+  background-color: rgb(80, 79, 79);
+  justify-content: space-between;
+}
+.box {
+  display: flex;
+  gap: 5px;
+}
+.box1 {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 15px;
+  align-items: center;
+  margin-left: 900px;
+}
+.ahref {
+  color: white;
+  text-decoration-line: none;
+}
+.head {
+  background-color: rgb(80, 79, 79);
+}
+.akbar {
+  color: white;
+}
+.main {
+  background-color: black;
+  color: white;
+}
+.spn {
+  background-color: rgb(3, 180, 3);
+  border-radius: 50%;
+  width: 10px;
+  display: inline-block;
+  height: 10px;
+}
+.container2 {
+  width: 1150px;
+  padding: 0px 30px;
+  margin: 0px;
+}
+.ota2 {
+  justify-content: center;
+  justify-content: space-between;
+  display: flex;
+}
+.str {
+  font-size: 40px;
+}
+.boxx {
+  width: 600px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.boxx2 {
+  width: 400px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+}
+.imag {
+  box-shadow: 20px 20px 10px rgb(73, 73, 73);
+  border-radius: 15px;
+}
+.container3 {
+  width: 1150px;
+  padding: 0px 20px;
+  margin: 0px;
+}
+.nature {
+  width: 800px;
+  border: 1px solid white;
+  color: white;
+  display: flex;
+  text-align: center;
+  border-radius: 10px;
+}
+.nature:hover {
+  box-shadow: 10px 10px 10px white;
+}
+.hihi {
+  border-radius: 10px;
+}
+.pi {
+  margin-top: 100px;
+}
+.hacker {
+  width: 800px;
+  border: 1px solid white;
+  color: white;
+  display: flex;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 690px;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+.hacker:hover {
+  box-shadow: 10px 10px 10px white;
+}
+.game {
+  width: 800px;
+  border: 1px solid white;
+  color: white;
+  display: flex;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.game:hover {
+  box-shadow: 10px 10px 10px white;
+}
+.iphone {
+  width: 800px;
+  border: 1px solid white;
+  color: white;
+  display: flex;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-left: 690px;
+  margin-right: 15px;
+}
+.iphone:hover {
+  box-shadow: 10px 10px 10px white;
+}
+.foot {
+  background-color: black;
+  color: white;
+}
+.container12 {
+  width: 1150px;
+  padding: 0px 10px;
+  margin: 0px auto;
+}
+.big-fox {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 300px;
+}
+.boss {
+  width: 500px;
+  margin-top: 100px;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+.boss2 {
+  width: 500px;
+  margin-top: 100px;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+.btn {
+  width: 100px;
+  height: 20px;
+  margin-top: 100px;
+  margin-left: 150px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+}
+.btnn {
+  width: 100px;
+  height: 20px;
+  margin-top: 50px;
+  margin-left: 150px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+}
+.btn:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.btnn:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.boss:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+.boss2:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  border-radius: 20px;
+}
