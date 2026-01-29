@@ -3,12 +3,13 @@
 }
 body {
   margin: 0px;
+  background-color: black;
 }
 
 .container {
   width: 1150px;
   padding: 0px 10px;
-  margin: 0px;
+  margin: 0px auto;
 }
 .ota {
   display: flex;
@@ -24,7 +25,6 @@ body {
   flex-wrap: nowrap;
   gap: 15px;
   align-items: center;
-  margin-left: 900px;
 }
 .ahref {
   color: white;
@@ -47,13 +47,9 @@ body {
   display: inline-block;
   height: 10px;
 }
-.container2 {
-  width: 1150px;
-  padding: 0px 30px;
-  margin: 0px;
-}
+
 .ota2 {
-  justify-content: center;
+  align-items: center;
   justify-content: space-between;
   display: flex;
 }
@@ -62,8 +58,6 @@ body {
 }
 .boxx {
   width: 600px;
-  margin-top: 100px;
-  margin-left: 100px;
 }
 .boxx2 {
   width: 400px;
@@ -209,4 +203,21 @@ body {
   color: black;
   border: 1px solid black;
   border-radius: 20px;
+}
+
+.big-box100 {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  justify-content: center;
+  gap: 30px;
+}
+.guruh {
+  width: 300px;
+  border-radius: 10px;
+  border: 1px solid white;
+  box-shadow: 5px 5px 5px white;
+}
+.imagee {
+  border-radius: 10px;
 }
